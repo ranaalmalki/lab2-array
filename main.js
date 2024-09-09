@@ -92,10 +92,10 @@ console.log(words.length);
  //====
 
  function mull(num1,num2){
-    return num1 * num2
+    return num1*num2
 
  }
- console.log(mul(2,4));
+ console.log(mull(4,2));
 
 
  //=====
