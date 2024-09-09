@@ -52,3 +52,29 @@ console.log(numbers);
 //==========================
 console.log(numbers.push(100));
 console.log(numbers);
+
+//==========================================================
+
+let names = ['Alice', 'Bob', 'Charlie', 'David', 'Eve'];
+// let matchresult=names[0].find(/(\ba\S+\b)/gi) ?names:" ";
+// console.log(matchresult)
+console.log(names.includes("a"))
+
+console.log(names.join("-"))
+
+
+
+//===========================================================
+let fruits = ['apple', 'banana', 'cherry', 'date','elephant', 'bird', 'lion'];
+// console.log(fruits.includes("a"))
+
+fruits.unshift('yellow');
+console.log(fruits);
+
+
+//===========================================================
+let words = ['hello', 'world', 'javascript', 'array', 'function'];
+
+console.log(words.length);
+
+//==============================
