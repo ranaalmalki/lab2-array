@@ -77,4 +77,4 @@ let words = ['hello', 'world', 'javascript', 'array', 'function'];
 
 console.log(words.length);
 
-//==============================
+//=============================
