@@ -78,3 +78,50 @@ let words = ['hello', 'world', 'javascript', 'array', 'function'];
 console.log(words.length);
 
 //=============================
+
+
+
+//==================================
+ function sum(num1,num2){
+    return num1 + num2
+
+ }
+ console.log(sum(2,2));
+
+
+ //====
+
+ function mull(num1,num2){
+    return num1 * num2
+
+ }
+ console.log(mul(2,4));
+
+
+ //=====
+ function div(num1,num2){
+    return num1 / num2
+
+ }
+ console.log(div(4,2));
+
+ //=========
+ function remainder(num1,num2){
+    return num1 % num2
+
+ }
+ console.log(remainder(14,2));
+ //==========
+ function sub(num1,num2){
+    return num1 - num2
+
+ }
+ console.log(sub(2,2));
+
+
+ //=========
+ function mul(num1,num2,num3){
+    return num3*(num1 + num2)
+
+ }
+ console.log(sum(2,2,5));
